@@ -78,7 +78,7 @@ Do not merge your own PR unless instructed.
 
 ❌ Do not modify CONTRIBUTING.md.
 
-✅ Work only on your assigned file.
+✅ Work only on your assigned file. asjd
 
 ✅ Use a separate branch.
 
